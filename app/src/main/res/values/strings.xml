@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Ball Bounce Test</string>
+    <string name="StartTest">Start Test</string>
+    <string name="StartTestImage">Start Test</string>
+    <string name="History">History</string>
+    <string name="HistoryImage">History</string>
+    <string name="Settings">Settings</string>
+    <string name="SettingsImage">Settings</string>
+    <string name="ChooseBall">Choose your test</string>
+    <string name="FootballImage">Football Image</string>
+    <string name="Football1TopText"> Football, Size 4, Single</string>
+    <string name="Football1BottomText"> Single test with Fifa inspected size 4 outdoor football</string>
+    <string name="Football2TopText"> Football, Size 4, Multi</string>
+    <string name="Football2BottomText"> Mutliple tests (5) with Fifa inspected size 4 outdoor football</string>
+    <string name="Football3TopText"> Football, Size 5, Single</string>
+    <string name="Football3BottomText"> Single test with Fifa inspected size 4 outdoor football</string>
+    <string name="Football4TopText"> Football, Size 5, Multi</string>
+    <string name="Football4BottomText"> Mutliple tests (5) with Fifa inspected size 4 outdoor football</string>
+    <string name="OndergrondPrompt"> Ondergrond</string>
+        <string-array name="OndergrondArray">
+        <item>Beton</item>
+        <item>Gras</item>
+        <item>Kunstgras</item>
+    </string-array>
+    <string name="MetingPrompt"> Meting</string>
+    <string-array name="MetingArray">
+        <item>Meting 1</item>
+        <item>Meting 2</item>
+        <item>Meting 3</item>
+        <item>Meting 4</item>
+        <item>Meting 5</item>
+    </string-array>
+</resources>
